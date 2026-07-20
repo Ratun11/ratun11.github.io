@@ -31,7 +31,7 @@ author:
   bio              : "Ph.D. Student in Computer Engineering | Quantum Computing and Distributed Systems"
   location         : "Huntsville, AL, USA"
   employer         : "University of Alabama in Huntsville"
-  uri              : "https://sites.google.com/uah.edu/ratunrahman"
+  uri              : # "https://sites.google.com/uah.edu/ratunrahman"
   email            : "rr0110@uah.edu"
 
   # Academic websites
@@ -40,10 +40,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6718-0112"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -59,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
