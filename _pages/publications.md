@@ -47,7 +47,7 @@ author_profile: true
     *IEEE Geoscience and Remote Sensing Letters*, 2025.
 
 11. **Quantum Federated Learning: A Comprehensive Survey.**
-    Md. Raihan Uddin, Shaba Shaon, **Ratun Rahman**, Dinh C. Nguyen, Octavia Dobre, Dusit Niyato
+    Md. Raihan Uddin, Shaba Shaon, **Ratun Rahman**, Dinh C. Nguyen, Octavia Dobre, Dusit Niyato.
     *IEEE Communications Surveys & Tutorials*, 2025.
     
 13. **When Quantum Federated Learning Meets Blockchain in 6G Networks.**
