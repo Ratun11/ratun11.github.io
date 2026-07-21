@@ -46,6 +46,14 @@ author_profile: true
     **Ratun Rahman**, F. Patadia, J. Wang, and Dinh C. Nguyen.  
     *IEEE Geoscience and Remote Sensing Letters*, 2025.
 
+11. **Quantum Federated Learning: A Comprehensive Survey.**
+    Md. Raihan Uddin, Shaba Shaon, **Ratun Rahman**, Dinh C. Nguyen, Octavia Dobre, Dusit Niyato
+    *IEEE Communications Surveys & Tutorials*, 2025.
+    
+13. **When Quantum Federated Learning Meets Blockchain in 6G Networks.**
+    Dinh C. Nguyen, Md Bokhtiar Al Zami, **Ratun Rahman**, Shaba Shaon, Tuy Tan Nguyen, and Fatemeh Afghah.
+    *IEEE Communications Standards Magazine*, 2025.
+    
 ## Conference Publications
 
 1. **Multimodal Federated Learning with Model Personalization.**  
