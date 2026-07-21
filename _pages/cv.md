@@ -1,64 +1,47 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+My current curriculum vitae is available below.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[**View or Download My CV**](/files/Ratun_Rahman_CV.pdf){: .btn .btn--primary target="_blank" }
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Profile
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+I am a Ph.D. student in Computer Engineering at the University of Alabama
+in Huntsville, specializing in quantum computing and distributed learning
+systems. My research focuses on noise-resilient quantum machine learning,
+quantum federated learning, quantum error mitigation, personalized
+federated learning, and distributed quantum sensing.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### University of Alabama in Huntsville
+
+**Ph.D. in Computer Engineering**  
+Quantum Computing and Distributed Systems  
+August 2023–December 2026 (Expected)
+
+### Islamic University of Technology
+
+**B.Sc. in Software Engineering**  
+Security and Machine Learning  
+January 2018–May 2022
+
+## Research Areas
+
+- Quantum Machine Learning
+- Quantum Federated Learning
+- Quantum Error Mitigation
+- Distributed Quantum Systems
+- Quantum Sensing
+- Personalized Federated Learning
+- Heterogeneous Learning Systems
+
+For complete information about my publications, projects, research
+experience, technical expertise, and awards, please view the PDF version
+of my CV.
